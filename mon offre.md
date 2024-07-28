@@ -9,8 +9,8 @@ in_menu: true
 - Ralentir, déconnecter, penser le temps long dans des optiques de descente énergétique (cf. permaculture) ou de résonnance (cf. Hartmut Rosa)
 
 # Différents modes d'actions 
-##Accompagnement collectif
-aaa
+## Accompagnement collectif
+aaa  
 ## Formation-Action
 ### Animacoop
 aaa  
