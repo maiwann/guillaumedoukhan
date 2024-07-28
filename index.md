@@ -3,6 +3,16 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# L'Échappée Belle
+# Guillaume Doukhan - Tisseur.cc
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+##Qui suis-je ?
+aaa
+[Pour + d'infos aller voir mon ADN](adn.html)
+
+##Pourquoi me solliciter ?
+aaa
+[Pour + d'infos aller voir mon offre](offre.html)
+
+##Mon actu
+Le dernier article
+[Toute mon actu dans la section Articles](articles.html) 
