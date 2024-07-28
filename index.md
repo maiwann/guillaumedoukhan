@@ -6,13 +6,17 @@ in_menu: true
 # Guillaume Doukhan - Tisseur.cc
 
 ## Qui suis-je ?
-aaa
+aaa  
 [Pour + d'infos aller voir mon ADN](mon adn.html)
 
 ## Pourquoi me solliciter ?
-aaa
+aaa  
 [Pour + d'infos aller voir mon offre](mon offre.html)
 
 ## Mon actu
-Le dernier article
+Le dernier article  
 [Toute mon actu dans la section Articles](articles) 
+
+##Comment me contacter
+Par mail guillaume at tisseur.cc  
+[Et pour en savoir +](mes contacts.html) 
