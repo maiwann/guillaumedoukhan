@@ -5,14 +5,14 @@ in_menu: true
 ---
 # Guillaume Doukhan - Tisseur.cc
 
-##Qui suis-je ?
+## Qui suis-je ?
 aaa
-[Pour + d'infos aller voir mon ADN](adn.html)
+[Pour + d'infos aller voir mon ADN](mon adn.html)
 
-##Pourquoi me solliciter ?
+## Pourquoi me solliciter ?
 aaa
-[Pour + d'infos aller voir mon offre](offre.html)
+[Pour + d'infos aller voir mon offre](mon offre.html)
 
-##Mon actu
+## Mon actu
 Le dernier article
 [Toute mon actu dans la section Articles](articles.html) 
