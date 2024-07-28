@@ -15,4 +15,4 @@ aaa
 
 ## Mon actu
 Le dernier article
-[Toute mon actu dans la section Articles](articles.html) 
+[Toute mon actu dans la section Articles](articles) 
