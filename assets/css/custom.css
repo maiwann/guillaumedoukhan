@@ -4,3 +4,7 @@
 footer div {
 display : none;
 }
+
+header .container {
+background-image : url("logo.jpg")
+}
