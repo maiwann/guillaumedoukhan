@@ -22,7 +22,7 @@ Ces propositions reposent un mix d'apport de contenus et d'appui sur les expéri
 *Financements formation professionnelle possibles*
 - **Animacoop**  
 Une formation pour développer ses compétences coopératives. 75 heures de formation réparties sur 3 mois. A Gap
-[Tout savoir sur Animacoop](https://www.animacoop.net)
+[Tout savoir sur Animacoop](https://centre-de-ressources.fr/formation-animacoop/)
 - **Piloter un tiers-lieu**  
 20 jours pour faire le tour de l'ensemble des compétences pour piloter / coordonner un tiers-lieu (compétences coopératives, de gestion, autour de son lieu). A Marseille.
 [Tout savoir sur Piloter un tiers-lieu](https://sudtierslieux.fr/formation/piloter-un-tiers-lieu/)
