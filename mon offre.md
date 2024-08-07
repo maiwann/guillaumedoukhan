@@ -15,17 +15,17 @@ Fonctionner ensemble, prendre ce temps, penser notre manière d'interagir, pense
 # Différents modes d'actions 
 
 ## Accompagnement collectif
-Au travers de ces 3 piliers, et en mixant facilitation, prise de recul et formation, je vous propose de construire des propositions d'accompagnement singulières correspondant à vos besoins et à votre organisation, tiers-lieu, association, entreprise coopérative ou souhaitant devenir coopérative
+Au travers de ces 3 piliers, et en mixant facilitation, prise de recul et formation, je vous propose de construire des propositions d'accompagnement singulières correspondant à vos besoins et à votre organisation que vous soyez tiers-lieu, association, collectif informel, entreprise coopérative ou souhaitant devenir coopérative.
 
 ## Formation-Action
-Ces propositions reposent un mix d'apport de contenus et d'appui sur les expériences de chacun·e, stagiaire comme formateur, pour se projeter dans l'action au sein de son projet, collectif, lieu, réseau
-### Animacoop
+Ces propositions reposent un mix d'apport de contenus et d'appui sur les expériences de chacun·e, stagiaire comme formateur, pour se projeter dans l'action au sein de son projet, collectif, lieu, réseau :
+- Animacoop
 Une formation pour développer ses compétences coopératives. 75 heures de formation réparties sur 3 mois. A Gap
 [Tout savoir sur Animacoop](https://www.animacoop.net)
-### Piloter un tiers-lieu
+- Piloter un tiers-lieu
 20 jours pour faire le tour de l'ensemble des compétences pour piloter / coordonner un tiers-lieu (compétences coopératives, de gestion, autour de son lieu). A Marseille.
 [Tout savoir sur Piloter un tiers-lieu](https://sudtierslieux.fr/formation/piloter-un-tiers-lieu/)
-### A la demande
+- A la demande
 A partir de ces contenus nous pouvons discuter ensemble de formats adaptés à votre organisation sur des besoins plus spécifiques, avec des formats plus courts.
 
 ## Formation-Réflexion
