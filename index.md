@@ -18,6 +18,6 @@ Besoin de prendre du recul sur votre organisation, (re)penser votre raison d'êt
 Le dernier article  
 [Toute mon actu dans la section Articles](articles) 
 
-##Comment me contacter
+## Comment me contacter
 Par mail guillaume at tisseur.cc  
 [Et pour en savoir +](mes contacts.html) 
