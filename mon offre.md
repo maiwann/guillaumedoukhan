@@ -3,24 +3,30 @@ title: "Mon Offre"
 order: 1
 in_menu: true
 ---
-### Trois sujets d'intervention
+### Trois piliers dans mes interventions
 - Faire ensemble, notamment au travers des notions de gouvernance, partenariats, ancrage local, dynamiques des collectifs
-- Travailler sa raison d'être, son identité politique, savoir s'aligner au sein d'un collectif
-- Ralentir, déconnecter, penser le temps long dans des optiques de descente énergétique (cf. permaculture) ou de résonnance (cf. Hartmut Rosa)
+- Travailler sa raison d'être, son identité politique, savoir s'aligner au sein d'un collectif, penser des utopies, des imaginaires pour aller vers un a-venir désirable
+- Ralentir, déconnecter, penser le temps long dans des optiques de sobriété, descente énergétique (cf. permaculture) ou de résonnance (cf. Hartmut Rosa)
 
 # Différents modes d'actions 
 ## Accompagnement collectif
 aaa  
 ## Formation-Action
+Ces propositions reposent un mix d'apport de contenus et d'appui sur les expériences de chacun·e, stagiaire comme formateur, pour se projeter dans l'action au sein de son projet, collectif, lieu, réseau
 ### Animacoop
-aaa  
+Une formation pour développer ses compétences coopératives. 75 heures de formation réparties sur 3 mois. A Gap
 [Tout savoir sur Animacoop](https://www.animacoop.net)
 ### Piloter un tiers-lieu
-aaa  
+20 jours pour faire le tour de l'ensemble des compétences pour piloter / coordonner un tiers-lieu (compétences coopératives, de gestion, autour de son lieu). A Marseille.
 [Tout savoir sur Piloter un tiers-lieu](https://sudtierslieux.fr/formation/piloter-un-tiers-lieu/)
+### A la demande
+A partir de ces contenus nous pouvons discuter ensemble de formats adaptés à votre organisation sur des besoins plus spécifiques, avec des formats plus courts.
 ## Formation-Réflexion
-aaa  
+Des formations d'1 à 2 journées pour réfléchir autour d'un sujet impactant pour votre organisation, s'appuyant sur les logiques de l'éducation populaire
+- Construire sa propre utopie - Transition et identité politique collective
+- Ancrage local et partenariats
+- La question du temps dans les organisations
 ## Séminaire Déconnexion-Action
-aaa  
+Venez passer quelques jours au contact de la nature dans le Champsaur pour déconnecter du quotidien de votre organisation, prendre le recul nécessaire pour en repenser les fondamentaux
 ## Facilitation
-aaa 
+Pour accompagner votre organisation lors de réunions, séminaires, parce qu'un tiers amène une autre dynamique lors d'un temps collectif, parce que vous avez besoin d'une animation spécifique cadrée (prise de décision importante, gestion de tensions...) 
