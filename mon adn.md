@@ -3,6 +3,12 @@ title: "Mon ADN"
 order: 2
 in_menu: true
 ---
+![Guillaume Doukhan en photo]({% link images/GuillaumeCarreNB.png %})
+
+
+C'est m
+
+
 Dans un monde incertain et changeant, les prémisses de nouveaux récits plus vivants, plus collectifs, plus en lien apparaissent partout !
 
 > Une île bien sûr, c'est pas grand-chose. Mais deux îles, quatre, dix îles, ça commence à faire un archipel.
