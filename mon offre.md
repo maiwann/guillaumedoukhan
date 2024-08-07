@@ -3,7 +3,7 @@ title: "Mon Offre"
 order: 1
 in_menu: true
 ---
-> A force de sacrifier l'essentiel à l'urgence on finit par oublier l'urgence de l'essentiel. *Edgar Morin* 
+> *A force de sacrifier l'essentiel à l'urgence on finit par oublier l'urgence de l'essentiel. Edgar Morin* 
 
 Fonctionner ensemble, prendre ce temps, penser notre manière d'interagir, penser ce pour quoi nous nous rassemblons dans un lieu, une association, une entreprise. Des questions fondamentales et auxquelles pourtant nous n'accordons que peu de temps dans notre société de l'accélération.
 
