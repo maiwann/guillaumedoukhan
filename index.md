@@ -4,7 +4,7 @@ order: 0
 in_menu: true
 ---
 # Guillaume Doukhan - Tisseur.cc
-
+![Logo Tisseur.cc]({% link images/logo2.png %})
 ## Qui suis-je ?
 Je me définis comme tisseur de liens, de lieux et de projets pour aller vers un monde durable. 
 Plus concrètement formateur, accompagnateur de collectifs, dont des tiers-lieux, issu d'une longue expérience de gestion de projets et d'intervention dans différentes associations, collectifs et réseaux.  
