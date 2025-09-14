@@ -3,4 +3,5 @@ collections:
     output: true
 plugins:
   - jekyll-feed
+  - jekyll-git-hash
 theme: mimoza
